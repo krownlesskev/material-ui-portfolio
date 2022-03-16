@@ -1,6 +1,6 @@
 # Kevin Sana's Portfolio
 
-This was coded using React and Material-UI
+This was developed using React and Material-UI
 
 ### Hosting on GH Pages
 
