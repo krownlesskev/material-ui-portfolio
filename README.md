@@ -2,7 +2,7 @@
 
 This was coded using React and Material-UI
 
-## Hosting on GH Pages
+### Hosting on GH Pages
 
-## Domain from Google Domains
+### Domain from Google Domains
 
