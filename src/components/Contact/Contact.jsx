@@ -21,7 +21,7 @@ export const Contact = () => {
                 borderRadius: 10
             }}>
                 <Link
-                variant='h4'
+                    variant='h5'
                     href='mailto:kevin.sana@outlook.com'
                     underline="hover">
                     kevin.sana@outlook.com
