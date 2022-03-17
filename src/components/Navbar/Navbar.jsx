@@ -3,6 +3,7 @@ import AppBar from '@mui/material/AppBar'
 import Box from '@mui/material/Box'
 import Toolbar from '@mui/material/Toolbar'
 import Typography from '@mui/material/Typography'
+import { NavMenu } from './NavMenu'
 
 // Imports for Back to top button vvv
 import { useScrollTrigger } from '@mui/material'
@@ -29,7 +30,7 @@ const ScrollTop = (props) => {
         if (anchor) {
             anchor.scrollIntoView({
                 behavior: 'smooth',
-                block: 'center,'
+                block: 'center',
             });
         }
     };
@@ -75,7 +76,7 @@ export const Navbar = (props) => {
                         }}>
                         Kevin Sana
                     </Typography>
-                    
+                    <NavMenu />
                 </Toolbar>
                 <ScrollTop {...props}>
                     <Fab

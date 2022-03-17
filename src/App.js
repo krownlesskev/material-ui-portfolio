@@ -1,9 +1,13 @@
-import { Navbar } from './components/ComponentList/Index'
+import { Navbar, Hero, About, Projects, Contact } from './components/ComponentList/Index'
 
 function App() {
   return (
     <>
       <Navbar />
+      <Hero />
+      <About />
+      <Projects />
+      <Contact />
     </>
   );
 }
