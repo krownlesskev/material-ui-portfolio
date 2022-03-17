@@ -20,7 +20,7 @@ export const About = () => {
                 backgroundColor: 'white',
                 borderRadius: 10
             }} variant='h6'>
-                I am a self-taught front-end developer located in Winnipeg, MB.
+                I am a self-taught developer located in Winnipeg, MB.
                 I am a highly motivated self starter with a passion for learning and creating web applications.
                 Recent Graduate of the <span style={{ color: '#2196f3' }}>ZTM The Complete Web Developer in 2022. </span>
                 I've particpated in several online courses on udemy, the odin project, codecademy, and much more!
