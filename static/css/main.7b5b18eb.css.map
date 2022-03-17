@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.7b5b18eb.css","mappings":"AAAA,KACC,sBACD,CAEA,KAGC,wBAAyB,CAFzB,QAAS,CACT,SAED","sources":["index.css"],"sourcesContent":["html {\n\tscroll-behavior: smooth;\n}\n\nbody {\n\tmargin: 0;\n\tpadding: 0;\n\tbackground-color: #f0f0f0;\n}\n"],"names":[],"sourceRoot":""}

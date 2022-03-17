@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/material-ui-portfolio/static/css/main.7b5b18eb.css",
+    "main.js": "/material-ui-portfolio/static/js/main.55d2e3fe.js",
+    "static/js/787.bdbd3661.chunk.js": "/material-ui-portfolio/static/js/787.bdbd3661.chunk.js",
+    "static/media/smartbrain.png": "/material-ui-portfolio/static/media/smartbrain.340a52a7e63b7b71d309.png",
+    "index.html": "/material-ui-portfolio/index.html",
+    "main.7b5b18eb.css.map": "/material-ui-portfolio/static/css/main.7b5b18eb.css.map",
+    "main.55d2e3fe.js.map": "/material-ui-portfolio/static/js/main.55d2e3fe.js.map",
+    "787.bdbd3661.chunk.js.map": "/material-ui-portfolio/static/js/787.bdbd3661.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b5b18eb.css",
+    "static/js/main.55d2e3fe.js"
+  ]
+}
