@@ -18,7 +18,7 @@ export const Hero = () => {
                         <span style={{ color: '#2196f3' }}>Kevin</span> Sana
                     </Typography>
                     <Typography variant='h4'>
-                    Full Stack <span style={{ color: '#2196f3' }}>Developer</span>
+                    Web <span style={{ color: '#2196f3' }}>Developer</span>
                     </Typography>
                 </Box>
             </Box>
