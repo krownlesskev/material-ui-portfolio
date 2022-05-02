@@ -1,8 +1,10 @@
 # Kevin Sana's Portfolio
 
+## `Depreciating soon, will be replaced by new portfolio developed with React and Sass.`
 This was developed using React and Material-UI
 
-### Hosting on GH Pages
+### `Live:`
+www.kevinsana.com
 
-### Domain from Google Domains
+or clone repo and run npm start.
 
